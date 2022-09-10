@@ -1,21 +1,5 @@
 ### Olá pessoal👋
 
-import Desenvolvedor from 'leticialealperez';
-
-class SobreMim extends Desenvolvedor {
-  nome     = 'Leticia Leal';
-  area    = 'Full Stack Web Developer';
-  trabalho  = 'Growdev';
-  local = 'Campo Bom, RS';
-}
-
-class Skills extends Desenvolvedor {
-  linguagens  = ['C#', 'JavaScript', 'Typescript', 'SQL'];
-  bibliotecas  = ['Apexcharts', 'ReactJS', 'Lodash', 'Anime.js', 'Chart.js'];
-  frameworks = ['Material UI', 'Bootstrap', 'Node.js', 'Express.JS', 'Ionic'];
-}
-
-
 
 - 🔭 Atualmente estou trabalhando na <a target="_blank" href="https://www.saqueepague.com.br/">Saque e Pague</a>
 - 🌱 Estudante da 7ª Edição do Programa Starter Full Stack Web Developer na <a target="_blank" href="https://www.growdev.com.br/">Growdev</a>
