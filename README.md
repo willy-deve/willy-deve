@@ -6,7 +6,7 @@
 - 📫 Onde me encontrar: <a target="_blank" href="https://www.linkedin.com/in/willy-da-silva-73430019b/">LinkedIn</a>
 - ⚽ Meus Hobbies, futebol e academia 
 - 💻 Linguagens: TypeScript, JavaScript, ReactJS
-- 🎯 Frameorks: Bootstrap e Material UI
+- 🎯 Frameworks: Bootstrap e Material UI
 
 <div align="center">
   <a href="https://github.com/willy-deve">
