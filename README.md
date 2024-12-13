@@ -3,9 +3,10 @@
 
 - 👩‍💻 Atualmente estou trabalhando na <a target="_blank" href="https://www.saqueepague.com.br/">Saque e Pague</a>
 - 📚 Formado na 7ª Edição do Programa Starter Full Stack Web Developer na <a target="_blank" href="https://www.growdev.com.br/">Growdev</a>
+- 📚 Analise e Desenvolvimento de Sistemas - FTEC
 - 📫 Onde me encontrar: <a target="_blank" href="https://www.linkedin.com/in/willy-da-silva-73430019b/">LinkedIn</a>
 - ⚽ Meus Hobbies, futebol e academia 
-- 💻 Linguagens: TypeScript, JavaScript, ReactJS, JAVA
+- 💻 Linguagens: TypeScript, JavaScript, ReactJS, JAVA SpringBoot
 - 🎯 Frameworks: Bootstrap e Material UI
 
 <div align="center">
